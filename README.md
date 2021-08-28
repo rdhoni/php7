@@ -16,3 +16,8 @@ apt --fix-broken install
 ``` 
 successfully fixed in device : 
 - arm.x86
+
+### Update You Termux
+you can download in f-droid for new version
+
+[f-droid.org/en/packages/com.termux/](f-droid.org/en/packages/com.termux/)
